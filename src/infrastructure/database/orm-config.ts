@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import { DataSourceOptions } from 'typeorm';
 
 const config: DataSourceOptions = {
@@ -12,4 +13,4 @@ const config: DataSourceOptions = {
   logging: true,
 };
 
-export = config;
+export default config;
