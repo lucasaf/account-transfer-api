@@ -18,6 +18,7 @@ const start = async () => {
     console.log('Starting server...');
 
     await databaseInitializer();
+
     await fastify.listen({ port: 3000, host: '0.0.0.0' });
 
     console.log(`Server is listening on port 3000`);
