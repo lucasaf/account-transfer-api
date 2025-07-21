@@ -100,7 +100,7 @@
           <mxGeometry x="400" y="810" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yMDlocSIDWEBlG2M7-yO-34" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1010" width="78" height="78" as="geometry" />
+          <mxGeometry x="780" y="1280" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
